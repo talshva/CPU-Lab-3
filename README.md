@@ -68,3 +68,7 @@ A series of processes are defined for system simulation, including clock generat
 
 
 **Final Note**: For a comprehensive understanding of the system's operations and the functionality of each component, please refer to the individual `.vhd` files within the project repository.
+For detailed information, see this pdf:
+
+[CPU Lab 3.pdf](https://github.com/talshva/CPU-Lab-3/files/15001424/CPU.Lab.3.pdf)
+
